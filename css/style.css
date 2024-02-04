@@ -1,3 +1,13 @@
 body {
     background-color: coral;
 }
+
+* {
+    color: white;
+}
+
+p {
+    line-height: 2.5em;
+    width: 800px;
+    text-align: justify;
+}
